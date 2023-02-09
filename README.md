@@ -23,6 +23,7 @@ The chosen configuration for both robots:
 - Drive Velocity,	  V = 3.0m/s
 
 Both simulations have been developed using Pygame and Math modules in python.
+
 To install Pygame --> command in terminal --> pip install pygame
 Thank you.
 
