@@ -1,8 +1,7 @@
-# Autonomous Robotics Assignment 2
-# Yaman H.S. Aburaneh - 1720907
+# Python Simulation for Rear Wheel Drive Ackermann Steering Robot and Differential Drive Robot
 
 
-Rear Wheel Drive Ackermann Steering Robot Simulation
+# Rear Wheel Drive Ackermann Steering Robot Simulation
 - This folder contains two files:
   1) The first one is the main code for the first assignment task (Ackermann_Steering_Robot_Main.py)
   2) The second one is fully controlable Ackermann Steering simulation (Ackermann_Steering_Robot_Control.py)
@@ -10,7 +9,7 @@ Rear Wheel Drive Ackermann Steering Robot Simulation
 - Uses front wheel Ackermann steering kinematics to control the direction of the robot.
 - Draws the turing radius while steering and the axle lines that intersect the center of that radius (IC).
 
-Differential Drive Robot Simulation
+# Differential Drive Robot Simulation
 - This file will display the required output when it is launched (Vl = V + V*15% , Vr = V - V*15%).
 - It is possible to control the robot using: 
   (E: Accelerate right side, D: Deccelerate right side, Q: Accelerate left side, A: Deccelerate left side,
