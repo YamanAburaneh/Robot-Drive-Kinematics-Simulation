@@ -17,7 +17,7 @@
 - The robot will rotate around its center point when the speeds of both sides are the same but in opposite directions.
 
 
-###The chosen configuration for both robots:
+### The chosen configuration for both robots:
 - Distance between axles, L = 1.0m
 - Axle width, 		  W = 0.5m
 - Drive Velocity,	  V = 3.0m/s
